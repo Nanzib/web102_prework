@@ -19,6 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
+https://i.imgur.com/O8gk3Sb.gif (Sorry embed is not working for some reason.)
 <img src='https://i.imgur.com/O8gk3Sb.gif' alt='Video Walkthrough' />
 
 GIF created with Snipping Tool  
