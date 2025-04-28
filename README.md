@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/YCFJgCt.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://s4.gifyu.com/images/bpeE4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Snipping Tool  
 
